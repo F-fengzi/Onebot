@@ -1,5 +1,6 @@
 # Onebot.
-A spamming Discord bot
+A spamming Discord bot.
+Brother of Testie and Charlie.
 
 # How to use it.
 Easy as counting 123.
