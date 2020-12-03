@@ -1,0 +1,15 @@
+{
+  "name": "onebot",
+  "version": "2.1.2",
+  "description": "A spam bot created by Fengzi.",
+  "main": "onebot.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "Fengzi",
+  "license": "ISC",
+  "dependencies": {
+    "discord.js": "^12.5.1"
+  }
+}
